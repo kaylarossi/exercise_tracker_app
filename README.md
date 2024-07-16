@@ -1,3 +1,2 @@
-# Exercise Tracker
-
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+App for a user to input their username and obtain an id. Then use that id to create a log of input exercise, duration, type, and date. 
+App created as part 4/5 for projects to earn backend development and APIs certificate from freecodecamp.org. 
